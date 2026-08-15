@@ -1,0 +1,11 @@
+body{
+    background-image: url('renskie.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px 400px;
+}
+
+p{
+    font-size: 50px;
+    color: chartreuse; 
+    text-align: center;
+}

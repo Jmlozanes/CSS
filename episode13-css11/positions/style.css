@@ -1,0 +1,82 @@
+/* FIXED*/
+.huh{
+    background-color: aquamarine;
+    position: fixed;
+    bottom: 0px;
+    right: 500px;
+    margin: 0px;
+}
+
+
+
+
+/* STICKY*/
+.hoh{
+    background-color: blue;
+    margin: 0px;
+    position: sticky;
+    top: 0px;
+}
+
+
+
+
+
+
+/*ABSOLOUTE*/
+.hih{
+    position: absolute;
+    margin: 0;
+    right: 100px;
+    bottom: 100px;
+    
+}
+
+
+
+
+
+/*RELATIVE*/
+.hah{
+    margin:0;
+    position: relative;
+    bottom: -50px;
+}
+
+
+
+
+
+
+/*design*/
+.design{
+    width: 500px;
+    height: 500px;
+    background-color:aqua;
+    color: chartreuse;
+}
+
+nav{
+    background-color: black;
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: 1s;
+
+}
+
+a:hover{
+    color: cyan;
+
+}
+
+.bods{
+    margin: 0;
+
+}

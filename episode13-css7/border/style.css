@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+p{
+    border: 5px solid rgb(97, 6, 133);
+    border-radius: 50px;
+    background: rgb(160, 0, 0);
+    color: aqua;
+}
+h1{
+    border-top: 5px solid rgb(0, 250, 133);
+    border-bottom: 5px ridge rgb(229, 137, 0);
+    border-left: 5px dashed rgb(76, 0, 255);
+    border-right: 5px dotted rgb(250, 0, 0);
+    background: tomato;
+    color: blue;
+}

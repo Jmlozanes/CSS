@@ -1,0 +1,9 @@
+p{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    background: chocolate;
+    color: aqua;
+    border: 5px solid red;
+}

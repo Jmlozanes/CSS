@@ -1,0 +1,32 @@
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+button:active{
+    background-color: darkgoldenrod;
+    color: gold;
+}
+
+input:focus{
+    border: 2px solid grey;
+    outline: none;
+    background-color: aqua;
+}
+
+.kups:disabled{
+    background-color: red;
+    opacity: 0.2px;
+}
+.kupal{
+    background-color: green;
+}
+
+.eat:checked{
+    scale: 5;
+}

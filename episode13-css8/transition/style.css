@@ -1,0 +1,31 @@
+button{
+    background-color: aqua;
+    transition:1s , width 2s, height 2s, background-color 2s, 3s;
+    width: 50px;
+    height: 50px;
+    /* transition: 1s 3s
+    
+    it'll delay 3 seconds before going to hover*/
+}
+
+button:hover{
+    background-color: blue;
+}
+
+button:active{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+}
+
+.buttons{
+    background-color: aqua;
+    width: 100px;
+    transition: ease 1s;
+}
+
+.buttons:hover{
+    background-color: blue;
+    width: 200px;
+    
+}

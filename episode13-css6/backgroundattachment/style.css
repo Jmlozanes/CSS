@@ -1,0 +1,11 @@
+body{
+    background-image: url('renskie.jpg');
+    background-position: center top;
+    /*  x postion = only left center and  right . y position = top center bottom*/
+}
+
+p{
+    font-size: 50px;
+    color: chartreuse; 
+    text-align: center;
+}

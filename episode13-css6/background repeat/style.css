@@ -1,0 +1,11 @@
+body{
+    background-image: url(renren.jpg);
+    background-repeat: space;
+
+}
+
+p{
+    color: aqua;
+    font-size: 100px;
+    text-align: center;
+}

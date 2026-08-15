@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.fonts{
+    font-family: Arial;
+    font-weight: normal;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.login-container{
+    width: 385px;
+    margin: 30px auto;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.1);
+    background-color: rgb(74, 2, 142);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+input{
+    display: block;
+    width: calc(100% - 30px); 
+    outline: none;
+    padding: 15px;
+    margin: 10px 0; 
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 5px rgb(123, 0, 246);
+}
+
+.buttons{
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+    padding: 15px 0;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.forgot{
+    margin: 15px 0;
+    display: block;
+    color: aliceblue;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.forgot:hover{
+    text-decoration: underline;
+}
+
+hr{
+    margin: 25px 0;
+    opacity: 0.3;
+}
+
+.bot{
+    display: block;
+    margin: 15px auto;
+    margin-top: 15px;
+    padding: 15px 0;
+    background-color: rgb(52, 7, 252);
+    font-size: 20px;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.bot:hover{
+    text-decoration: underline;
+    border-radius: 25px;
+    font-size: 25px;
+    margin: 20px auto;
+
+
+    
+}

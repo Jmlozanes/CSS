@@ -1,0 +1,27 @@
+.container{
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 10px rgba(121, 115, 115, 0.5);
+}
+
+.container:hover{
+    background-color: rgb(255, 255, 255);
+    width: 502px;
+    height: 502px;
+    transition: ease 1s;
+}
+
+.kups{
+    width: 500px;
+    height: 500px;
+    box-shadow: -5px -5px rgba(122, 121, 121, 0.2);
+    border: 5px solid black;
+}
+
+.kupal{
+    width: 500px;
+    height: 500px;
+    box-shadow: 2px 2px 4px 2px black inset;
+
+
+}

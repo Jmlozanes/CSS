@@ -1,0 +1,25 @@
+.worker{
+    color: cadetblue;
+    font-size: 100px;
+    background-color: black;
+    text-align: center;
+}
+
+.project{
+    color: chartreuse;
+    font-size: 50px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+footer{
+    color: brown;
+    text-align: center;
+}
+
+#project2{
+    color: blue;
+    background-color: black;
+    text-align: center;
+    font-size: 90px;
+}
